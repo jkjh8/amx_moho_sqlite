@@ -1,0 +1,10 @@
+{
+  "id": "test3",
+  "name": "test3",
+  "description": "description",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "index.py",
+  "envvars": {}
+}

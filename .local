@@ -1,0 +1,19 @@
+{
+    "deploys": [
+        {
+            "date": "2024-11-04T04:06:53.466Z",
+            "program": "test3",
+            "controller": "10.20.0.50",
+            "files": [
+                {
+                    "path": "c:\\Users\\kjh\\Desktop\\bs_amx\\test3\\index.py",
+                    "md5": "7fa9b2cf5df9ad612ee959c61d92f4ec"
+                },
+                {
+                    "path": "c:\\Users\\kjh\\Desktop\\bs_amx\\test3\\program.json",
+                    "md5": "88d68cd63c9a848f21d7f1ffc9405e12"
+                }
+            ]
+        }
+    ]
+}
